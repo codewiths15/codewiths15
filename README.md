@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/sahilvicha24410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sahilvicha24410" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahil-vichare-b787a4231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-vichare-b787a4231" height="30" width="40" /></a>
-<a href="https://instagram.com/@vicharesahil81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vicharesahil81" height="30" width="40" /></a>
+<a href="https://instagram.com/vicharesahil81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vicharesahil81" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sahilvichare81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sahilvichare81" height="30" width="40" /></a>
 </p>
 
